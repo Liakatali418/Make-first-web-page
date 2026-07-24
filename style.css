@@ -2,7 +2,7 @@ body{
   font-family: "Poppins", sans-serif;
 }
 h1{
-    font-size: 30px;
+    font-size: 35px;
 }
 .name-highlight{
     color: orange;
@@ -27,4 +27,10 @@ h1{
 .top-banner{
     background-image: url(images/bg.webp);
     background-repeat: no-repeat;
+}
+h2{
+    font-size: 30px;
+}
+p{
+    color: dimgray;
 }
