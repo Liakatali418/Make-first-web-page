@@ -24,3 +24,7 @@ h1{
     color: white;
     font-weight: 700;
 }
+.top-banner{
+    background-image: url(images/bg.webp);
+    background-repeat: no-repeat;
+}
