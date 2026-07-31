@@ -35,5 +35,16 @@ p{
     color: dimgray;
 }
 .dream-area{
-    background-image: ;
+    background-image: url(images/bfg.jpg);
+}.half-shade{
+    width: 40%;
+    float: left;
+    margin: 4%;
+    padding: 1%;
+}
+.half-shade img{
+    width: 100%;
+}
+.box{
+    border-right: 2px;
 }
